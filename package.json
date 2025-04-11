@@ -1,0 +1,63 @@
+{
+  "name": "template_next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbo",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "^1.18.2",
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@eslint/config-array": "^0.17.0",
+    "@eslint/object-schema": "^2.1.4",
+    "@jridgewell/sourcemap-codec": "^1.5.0",
+    "@next/env": "15.2.4",
+    "@react-google-maps/api": "^2.19.3",
+    "@sbmdkl/nepali-datepicker-reactjs": "^1.2.2",
+    "@tanstack/react-query": "^5.37.1",
+    "@types/aos": "^3.0.7",
+    "@types/cookie": "^0.6.0",
+    "antd": "^5.24.4",
+    "antd-input-otp": "^2.1.0",
+    "antd-style": "^3.6.2",
+    "aos": "^2.3.4",
+    "axios": "^1.8.4",
+    "canvas": "^3.0.0-rc3",
+    "framer-motion": "^11.2.4",
+    "glob": "^11.0.0",
+    "html2canvas": "^1.4.1",
+    "iron-session": "^8.0.1",
+    "konva": "^9.3.19",
+    "nepali-date": "^0.1.3",
+    "nepali-date-converter": "^3.3.4",
+    "next": "15.2.4",
+    "next-intl": "^3.26.5",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-google-charts": "^4.0.1",
+    "react-icons": "^5.2.1",
+    "react-konva": "^18.2.10",
+    "recharts": "^2.12.7",
+    "rimraf": "^6.0.0",
+    "sharp": "^0.33.4",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "@types/react": "19.1.0",
+    "@types/react-dom": "19.1.1",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "15.2.4",
+    "typescript": "^5.4.5"
+  },
+  "resolutions": {
+    "@emotion/react": "11.11.4"
+  },
+  "overrides": {
+    "@types/react": "19.1.0",
+    "@types/react-dom": "19.1.1"
+  }
+}

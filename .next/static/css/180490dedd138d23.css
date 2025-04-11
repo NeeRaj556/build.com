@@ -1,0 +1,1 @@
+.elements-list{margin-top:16px}.element-item{padding:8px 12px;margin-bottom:8px;border:1px solid #f0f0f0;border-radius:4px;cursor:pointer;transition:all .3s;display:flex;align-items:center}.element-item:hover{background:#f5f5f5}.control-tabs .ant-tabs-content{height:100%;overflow-y:auto}.splitter-panel{display:block}@media (max-width:768px){.splitter-panel{width:0}}
