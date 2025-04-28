@@ -169,14 +169,6 @@
       "namedRegex": "^/(?<nxtPlocale>[^/]+?)/privacy\\-policy(?:/)?$"
     },
     {
-      "page": "/[locale]/public_event",
-      "regex": "^/([^/]+?)/public_event(?:/)?$",
-      "routeKeys": {
-        "nxtPlocale": "nxtPlocale"
-      },
-      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/public_event(?:/)?$"
-    },
-    {
       "page": "/[locale]/register",
       "regex": "^/([^/]+?)/register(?:/)?$",
       "routeKeys": {
