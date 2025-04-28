@@ -9,36 +9,36 @@
     "id": 56683,
     "files": [
       "static/css/180490dedd138d23.css",
-      "static/chunks/7325-39b6e25bbb88b295.js",
+      "static/chunks/7325-490034d43a9fc294.js",
       "static/chunks/7845-6e54b21e278826a7.js",
-      "static/chunks/2788-81688b01d5711476.js",
+      "static/chunks/2788-36f9cca0bd2aca2d.js",
       "static/chunks/534-aa6d883d1c7cca5e.js",
-      "static/chunks/5201-0923fe0f50099874.js",
+      "static/chunks/8220-fea1c1b62b0364ab.js",
       "static/chunks/9584-7a2ca5e0f43f8f05.js",
-      "static/chunks/2160-974825a16a9a4ada.js",
+      "static/chunks/7110-3a8212f4d1ad9f73.js",
       "static/chunks/2070-2ce7426ece460adf.js",
       "static/chunks/1506-8c5cf684c55e6a08.js",
       "static/chunks/5958-db67ccf7ca4c5149.js",
-      "static/chunks/8612.667e7870ba11b126.js",
-      "static/chunks/787.80a04d999c32403b.js"
+      "static/chunks/7379.3380c92eb2461762.js",
+      "static/chunks/5883.666c2aee48466f9d.js"
     ]
   },
   "app/[locale]/(dashboards)/admin/templates/add/page.tsx -> @/src/app/_components/template-designer/TemplateEditor": {
     "id": 56683,
     "files": [
       "static/css/180490dedd138d23.css",
-      "static/chunks/7325-39b6e25bbb88b295.js",
+      "static/chunks/7325-490034d43a9fc294.js",
       "static/chunks/7845-6e54b21e278826a7.js",
-      "static/chunks/2788-81688b01d5711476.js",
+      "static/chunks/2788-36f9cca0bd2aca2d.js",
       "static/chunks/534-aa6d883d1c7cca5e.js",
-      "static/chunks/5201-0923fe0f50099874.js",
+      "static/chunks/8220-fea1c1b62b0364ab.js",
       "static/chunks/9584-7a2ca5e0f43f8f05.js",
-      "static/chunks/2160-974825a16a9a4ada.js",
+      "static/chunks/7110-3a8212f4d1ad9f73.js",
       "static/chunks/2070-2ce7426ece460adf.js",
       "static/chunks/1506-8c5cf684c55e6a08.js",
       "static/chunks/5958-db67ccf7ca4c5149.js",
-      "static/chunks/8612.667e7870ba11b126.js",
-      "static/chunks/787.80a04d999c32403b.js"
+      "static/chunks/7379.3380c92eb2461762.js",
+      "static/chunks/5883.666c2aee48466f9d.js"
     ]
   }
 }
