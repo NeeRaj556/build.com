@@ -185,6 +185,14 @@
       "namedRegex": "^/(?<nxtPlocale>[^/]+?)/register/user\\-details(?:/)?$"
     },
     {
+      "page": "/[locale]/support",
+      "regex": "^/([^/]+?)/support(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/support(?:/)?$"
+    },
+    {
       "page": "/[locale]/templates",
       "regex": "^/([^/]+?)/templates(?:/)?$",
       "routeKeys": {
