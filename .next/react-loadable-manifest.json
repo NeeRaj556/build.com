@@ -20,7 +20,7 @@
       "static/chunks/1506-9f5c62ec777aaad3.js",
       "static/chunks/2660-cd8ef6cc2ef48297.js",
       "static/chunks/9733-183e8df0da1dceb5.js",
-      "static/chunks/6683.ecf2c159c6f0e771.js",
+      "static/chunks/6683.6f78a1dc8332bf57.js",
       "static/chunks/3175.94d42a16b4994fae.js"
     ]
   },
@@ -39,8 +39,8 @@
       "static/chunks/1506-9f5c62ec777aaad3.js",
       "static/chunks/2660-cd8ef6cc2ef48297.js",
       "static/chunks/9733-183e8df0da1dceb5.js",
-      "static/chunks/6683.ecf2c159c6f0e771.js",
-      "static/chunks/799.4c5378df9d3ea62d.js"
+      "static/chunks/6683.6f78a1dc8332bf57.js",
+      "static/chunks/799.19dd67c6e9628a6a.js"
     ]
   },
   "app/[locale]/(dashboards)/user/create-event/_components/DetailsForm.tsx -> react-quill-new": {
@@ -66,7 +66,7 @@
       "static/chunks/2343-baad9ca6d6d22699.js",
       "static/chunks/7043-304a765f627a2f17.js",
       "static/chunks/4681.b3777c8172476174.js",
-      "static/chunks/7996.5e20a5566ec76469.js"
+      "static/chunks/7996.c79940fa20314e20.js"
     ]
   }
 }
