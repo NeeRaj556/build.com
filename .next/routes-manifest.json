@@ -169,14 +169,6 @@
       "namedRegex": "^/(?<nxtPlocale>[^/]+?)/privacy\\-policy(?:/)?$"
     },
     {
-      "page": "/[locale]/public_event",
-      "regex": "^/([^/]+?)/public_event(?:/)?$",
-      "routeKeys": {
-        "nxtPlocale": "nxtPlocale"
-      },
-      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/public_event(?:/)?$"
-    },
-    {
       "page": "/[locale]/register",
       "regex": "^/([^/]+?)/register(?:/)?$",
       "routeKeys": {
@@ -191,6 +183,14 @@
         "nxtPlocale": "nxtPlocale"
       },
       "namedRegex": "^/(?<nxtPlocale>[^/]+?)/register/user\\-details(?:/)?$"
+    },
+    {
+      "page": "/[locale]/support",
+      "regex": "^/([^/]+?)/support(?:/)?$",
+      "routeKeys": {
+        "nxtPlocale": "nxtPlocale"
+      },
+      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/support(?:/)?$"
     },
     {
       "page": "/[locale]/templates",
@@ -231,15 +231,6 @@
         "nxtPlocale": "nxtPlocale"
       },
       "namedRegex": "^/(?<nxtPlocale>[^/]+?)/user/create\\-event/success(?:/)?$"
-    },
-    {
-      "page": "/[locale]/user/edit-event/[id]",
-      "regex": "^/([^/]+?)/user/edit\\-event/([^/]+?)(?:/)?$",
-      "routeKeys": {
-        "nxtPlocale": "nxtPlocale",
-        "nxtPid": "nxtPid"
-      },
-      "namedRegex": "^/(?<nxtPlocale>[^/]+?)/user/edit\\-event/(?<nxtPid>[^/]+?)(?:/)?$"
     },
     {
       "page": "/[locale]/user/groups",
